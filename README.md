@@ -1,2 +1,1 @@
-# Esercizi_MSSQL
-Esercizi di Microsoft SQL
+# Esercizi di Microsoft SQL

@@ -1,0 +1,11 @@
+Data,Matricola da Registro Elettronico,Nome,Cognome,Materia,Voto,Nome Docente,Cognome Docente,Classe,Sezione,Note
+2022-09-01,1,Mario,Rossi,Informatica,8,Massimiliano,Raspa,5,E,
+2022-09-02,1,Mario,Rossi,Informatica,4,Alessandro,Mazzullo,5,E,da recuperare la settimana prossima
+2022-09-03,2,Giulia,Bianchi,Lettere,7,Cesare,Lamantea,5,E,
+2022-09-04,3,Giulio Cesare,De Benedictis,Lettere,6,Cesare ,Lamantea,4,F,
+2022-09-05,4,Natale,Pasquale,Matematica,3.5,Beatrice,Montanari,4,F,
+2022-09-06,1,Mario,Rossi,Informatica,7,Massimiliano,Raspa,5,E,
+2022-09-07,2,Giulia,Bianchi,Lettere,6,Cesare,Lamantea,5,E,
+2022-09-08,18,Giuseppe,Garibaldi,Storia,10,Cesare,Lamantea,3,E,ben preparato
+2022-09-09,22,Mario,Rossi,TPSIT,8,Massimiliano,Raspa,5,F,
+2022-09-01,2,Giulia,Bianchi,Lettere,10,Cesare,Lamantea,5,E,
